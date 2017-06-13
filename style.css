@@ -1,0 +1,48 @@
+body {margin:0; padding:0; background:#ffffff;}
+.rov {margin-left:0;margin-top:-30;position:absolute;}
+.rov1 {width:1400px; height:2500px;position:absolute;margin:0;}
+.rov2 {width:1400px; height:490px;margin-top:0; margin-left:0;position:absolute;}
+.rov3 {position:absolute;margin-top:0;margin-left:430px; }
+.rov4 {margin-left:0;margin-top:0;position:absolute;}
+.rov5 {font-style:bold;position:absolute;margin-top:15px;margin-left:350px;width:1000px;height:16px;}
+.rov6 {position:absolute;margin-top:700;margin-left:0px; }
+.rov7 {font-style:bold;position:absolute;margin-top:850px;margin-left:970px;width:1000px;height:16px;}
+.rov8 {position:absolute;margin-top:750;margin-left:600px; }
+.rov9 {font-style:bold;position:absolute;margin-top:190px;margin-left:250px;width:1000px;height:16px;}
+.rov10 {font-style:bold;position:absolute;margin-top:210px;margin-left:340px;width:1000px;height:16px;}
+.rov11 {font-style:bold;position:absolute;margin-top:290px;margin-left:310px;width:1000px;height:16px;}
+.rov12 {position:absolute;margin-top:140;margin-left:60px; }
+.rov13 {position:absolute;margin-top:185;margin-left:60px; }
+.rov14 {font-style:bold;position:absolute;margin-top:220px;margin-left:73px;width:1000px;height:30px;}
+.rov20 {font-style:bold;position:absolute;margin-top:890px;margin-left:780px;width:1000px;height:16px;}
+.rov21 {font-style:bold;position:absolute;margin-top:860px;margin-left:550px;width:3000px;height:16px;}
+.rov22 {position:absolute;margin-top:940;margin-left:1020px; }
+.rov23 {position:absolute;margin-top:1000;margin-left:1070px; }
+.rov24 {position:absolute;margin-top:1360;margin-left:30px; }
+.rov25 {position:absolute;margin-top:1360;margin-left:310px; }
+.rov26 {position:absolute;margin-top:1360;margin-left:1070px; }
+.rov27 {position:absolute;margin-top:1250;margin-left:615px; }
+.rov28 {position:absolute;margin-top:1280;margin-left:510px; }
+.rov29 {font-style:bold;position:absolute;margin-top:1300px;margin-left:570px;width:1000px;height:16px;}
+.rov30 {font-style:bold;position:absolute;margin-top:1380px;margin-left:670px;width:1000px;height:16px;}
+.rov31 {position:absolute;margin-top:2000;margin-left:430px; }
+.rov32 {font-style:bold;position:absolute;margin-top:2150px;margin-left:85px;width:1000px;height:16px;}
+.rov33 {position:absolute;margin-top:2082;margin-left:60px; }
+.rov34 {font-style:bold;position:absolute;margin-top:2200px;margin-left:545px;width:1000px;height:16px;}
+.rov35 {font-style:bold;position:absolute;margin-top:2150px;margin-left:555px;width:3000px;height:16px;}
+.rov36 {position:absolute;margin-top:2300;margin-left:210px; }
+.rov37 {position:absolute;margin-top:2310;margin-left:260px; }
+.rov38 {position:absolute;margin-top:2057;margin-left:130px; }
+.rov39 {position:absolute;margin-top:2600;margin-left:30px; }
+.rov40 {position:absolute;margin-top:2600;margin-left:310px; }
+.rov41 {position:absolute;margin-top:2600;margin-left:1070px; }
+.rov42 {position:absolute;margin-top:2490;margin-left:615px; }
+.rov43 {position:absolute;margin-top:2500;margin-left:510px; }
+.rov44 {font-style:bold;position:absolute;margin-top:2520px;margin-left:570px;width:1000px;height:16px;}
+.rov45 {font-style:bold;position:absolute;margin-top:2600px;margin-left:670px;width:1000px;height:16px;}
+a{text-decoration:none; color:#000000}
+a:hover{text-decoration:none; color:#000000}
+
+
+a.button{color:#ffffff;text-decoration:none;}
+a.button:hover{color:#ffffff;text-decoration:underline;}
